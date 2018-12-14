@@ -1,0 +1,8 @@
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\bin\Release\IndustryTycoon.exe.config
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\bin\Release\IndustryTycoon.exe
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\bin\Release\IndustryTycoon.pdb
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Release\IndustryTycoon.Form1.resources
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Release\IndustryTycoon.Properties.Resources.resources
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Release\IndustryTycoon.csproj.GenerateResource.Cache
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Release\IndustryTycoon.exe
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Release\IndustryTycoon.pdb

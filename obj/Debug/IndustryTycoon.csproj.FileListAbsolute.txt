@@ -1,0 +1,10 @@
+c:\users\txy\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\bin\Debug\IndustryTycoon.exe.config
+C:\Users\TXY\Documents\Visual Studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Debug\IndustryTycoon.Properties.Resources.resources
+C:\Users\TXY\Documents\Visual Studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Debug\IndustryTycoon.csproj.GenerateResource.Cache
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\bin\Debug\IndustryTycoon.exe
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\bin\Debug\IndustryTycoon.pdb
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Debug\IndustryTycoon.exe
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Debug\IndustryTycoon.pdb
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Debug\IndustryTycoon.Form1.resources
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Debug\IndustryTycoon.csprojResolveAssemblyReference.cache
+C:\Users\TXY\documents\visual studio 2013\Projects\IndustryTycoon\IndustryTycoon\obj\Debug\IndustryTycoon.new_buildingWnd.resources
