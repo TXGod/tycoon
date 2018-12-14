@@ -26,7 +26,7 @@ public class global
     public static int BaseIdx = 5;
     public static int BaseUnlocked = 1*2+1;
 //GRAPHIC
-    public static bool EnableAnimation = true;
+    public static bool EnableAnimation = false;
     public static int slide_speed = 25;
 
 }
